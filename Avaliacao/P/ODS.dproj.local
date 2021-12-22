@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/31 06:20:14.000.283,=C:\Users\clebe\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/12/20 15:01:13.000.921,=C:\Users\clebe\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/12/20 21:20:36.000.360,C:\Users\clebe\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Trier\Avaliacao\F\uOrdServ.pas</Transaction>
+    <Transaction>2021/12/20 21:20:36.000.360,C:\Users\clebe\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Trier\Avaliacao\F\uOrdServ.dfm</Transaction>
+    <Transaction>2021/12/20 21:21:07.000.125,C:\Users\clebe\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Trier\Avaliacao\P\ODS.dproj</Transaction>
+    <Transaction>2021/12/20 23:17:39.000.471,=C:\Trier\Avaliacao\P\Unit1.pas</Transaction>
+    <Transaction>2021/12/21 00:14:19.000.547,C:\Trier\Avaliacao\P\Unit1.dfm=C:\Trier\Avaliacao\F\uDM.dfm</Transaction>
+    <Transaction>2021/12/21 00:14:19.000.547,C:\Trier\Avaliacao\P\Unit1.pas=C:\Trier\Avaliacao\F\uDM.pas</Transaction>
+    <Transaction>2021/12/21 00:35:16.000.227,=C:\Trier\Avaliacao\P\Unit1.pas</Transaction>
+    <Transaction>2021/12/21 00:43:25.000.703,C:\Trier\Avaliacao\P\Unit1.pas=C:\Trier\Avaliacao\F\0000\uIOrdServ.pas</Transaction>
+    <Transaction>2021/12/21 00:43:25.000.703,C:\Trier\Avaliacao\P\Unit1.dfm=C:\Trier\Avaliacao\F\0000\uIOrdServ.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMacOs iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
